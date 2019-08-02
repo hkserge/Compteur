@@ -8,7 +8,7 @@
 </head>
 <body>
     
-    <h1>Bienvenue</h1>
+    <h1>Bienvenue !</h1>
 <?php
 
 $monFichier = fopen('compteur.txt', 'r+');
